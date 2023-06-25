@@ -1,10 +1,10 @@
-# ZJU Radar Dataset (ICRA2023: RoLM)
+# ZJU Radar Dataset 
 
 ![](./pics/data_collection.png)
 
 ## Download Link
 
-[ZJU-Radar-ICRA2023](https://zjuteducn-my.sharepoint.com/:f:/g/personal/201706120314_zjut_edu_cn/EmdoE4RvL-5Ppws83K1aSX8BaO4SBryLpSt1VGQ9DZI0tg?e=DXO2JQ)
+[ZJU-Radar](https://zjuteducn-my.sharepoint.com/:f:/g/personal/201706120314_zjut_edu_cn/EmdoE4RvL-5Ppws83K1aSX8BaO4SBryLpSt1VGQ9DZI0tg?e=DXO2JQ)
 
 ## DataType
 
